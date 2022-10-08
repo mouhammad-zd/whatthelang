@@ -21,7 +21,7 @@ setup(
     keywords='language detection library',
     packages=['whatthelang'],
     include_package_data=True,
-    install_requires=['Cython','cysignals','pyfasttext'],
+    install_requires=['cython','cysignals','pyfasttext'],
     license=license,
     classifiers=[
         'Development Status :: 5 - Production/Stable',
